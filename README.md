@@ -3,8 +3,8 @@ All links were found on Google. Everything belongs to their respective owners, a
 
 # Games
 ## Main
-1v1.LOL: https://1v1.lol/
-2048: https://www.silvergames.com/en/2048/iframe
-4096: https://mattjmattj.github.io/4096/
-Pac-Man (+ Extras!): https://masonicgit.github.io/pacman/
-Tetris: https://djblue.github.io/tetris/
+1v1.LOL: https://1v1.lol/  
+2048: https://www.silvergames.com/en/2048/iframe  
+4096: https://mattjmattj.github.io/4096/  
+Pac-Man (+ Extras!): https://masonicgit.github.io/pacman/  
+Tetris: https://djblue.github.io/tetris/  
