@@ -13,7 +13,8 @@ Eaglercraft (Minecraft 1.8.8): https://eaglercraft.q13x.com/
 Five Nights at Freddy's 1 (Scratch): https://en.gameslol.net/data/fnaf/fnaf-1/index.html  
 Moto X3M: https://webglmath.github.io/moto-x3m/  
 Pac-Man (+ Extras!): https://masonicgit.github.io/pacman/  
-Pac-Xon Deluxe: https://t.ly/uLUqb  
+Pac-Xon Deluxe: https://t.ly/uLUqb <-- when inputting as an embed, add the link that appears AFTER clicking on the t.ly link. this'll prevent it from not working.  
+Retro Bowl: https://game316009.konggames.com/gamez/0031/6009/live/index.html
 Run 1: https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Frun1.xml&container=ig  
 Run 2: https://ubg89.github.io/Run2/  
 Run 3: https://en.gameslol.net/data/run-3/index.html  
