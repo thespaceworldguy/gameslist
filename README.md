@@ -11,6 +11,7 @@ Crossy Road: https://lnahtml.github.io/a/crossy-road/
 Eaglercraft (Minecraft 1.5.2): https://sd592g.github.io/zj684od4lfg/  
 Eaglercraft (Minecraft 1.8.8): https://eaglercraft.q13x.com/  
 Five Nights at Freddy's 1 (Scratch): https://en.gameslol.net/data/fnaf/fnaf-1/index.html  
+Moto X3M: https://webglmath.github.io/moto-x3m/  
 Pac-Man (+ Extras!): https://masonicgit.github.io/pacman/  
 Pac-Xon Deluxe: https://t.ly/uLUqb  
 Run 1: https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Frun1.xml&container=ig  
